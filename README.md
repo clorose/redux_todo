@@ -1,2 +1,1 @@
-# redux_todo
-리덕스로 만드는 Todo List
+### [과제] 숙련주차 과제 답
